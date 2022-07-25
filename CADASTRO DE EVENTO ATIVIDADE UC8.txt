@@ -1,0 +1,18 @@
+SITUAÇÃO-PROBLEMA - CADASTRO DE EVENTO
+
+Informar data do evento
+
+caso data do evento < que data atual 
+escreva data invalida
+caso nº de eventos cadastrados >100
+escreva cadastro não permitido por limite excedido
+padrão:cadastrar evento
+
+Informar idade do participante do evento
+se idade  <18  
+escreva: idade  invalida
+senão: permitir cadastro
+
+
+se idade >18 e data > que hoje e nº de eventos cadastrados <100
+cadastar
